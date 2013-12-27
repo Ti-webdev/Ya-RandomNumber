@@ -1,0 +1,22 @@
+{
+  "name": "Ya-RandomNumber",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Ti-webdev/Ya-RandomNumber.git"
+  },
+  "author": "Ti.webdev",
+  "license": "None",
+  "bugs": {
+    "url": "https://github.com/Ti-webdev/Ya-RandomNumber/issues"
+  },
+  "homepage": "https://github.com/Ti-webdev/Ya-RandomNumber",
+  "devDependencies": {
+    "nodeunit": "~0.8.2"
+  }
+}
